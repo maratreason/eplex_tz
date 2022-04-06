@@ -1,0 +1,7 @@
+INSERT INTO `products` (`id`, `title`, `alias`, `brand`, `article`, `price`, `qty`, `offer_code`, `delivery_time`) VALUES (1, 'Машинно масло', 'mashinnoe-maslo', 'Shell', 'gt32532523523', 551, 422, '11125116161', 1);
+INSERT INTO `products` (`id`, `title`, `alias`, `brand`, `article`, `price`, `qty`, `offer_code`, `delivery_time`) VALUES (2, 'Радиатор', 'radiator', 'Improve', 'gt32532523556', 543, 835, '5734734734', 2);
+INSERT INTO `products` (`id`, `title`, `alias`, `brand`, `article`, `price`, `qty`, `offer_code`, `delivery_time`) VALUES (3, 'Колесо', 'koleso', 'Bridgestown', 'gt42532523523', 45, 246, '54457547547', 1);
+INSERT INTO `products` (`id`, `title`, `alias`, `brand`, `article`, `price`, `qty`, `offer_code`, `delivery_time`) VALUES (4, 'Кузов', 'kuzov', 'Metall', 'gt32532541111', 683, 838, '11122523553', 1);
+INSERT INTO `products` (`id`, `title`, `alias`, `brand`, `article`, `price`, `qty`, `offer_code`, `delivery_time`) VALUES (5, 'Бензин', 'benzin', 'Brand', 'gt32532523528', 614, 869, '11325325235', 1);
+INSERT INTO `products` (`id`, `title`, `alias`, `brand`, `article`, `price`, `qty`, `offer_code`, `delivery_time`) VALUES (6, 'Бак', 'bak', 'Aluminiy', 'gt32532523529', 240, 51, '11117753111', 2);
+INSERT INTO `products` (`id`, `title`, `alias`, `brand`, `article`, `price`, `qty`, `offer_code`, `delivery_time`) VALUES (7, 'Диски', 'diski', 'Heavy Metall', 'gt32532523530', 527, 88, '11114590911', 1);
