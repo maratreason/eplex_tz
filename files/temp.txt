@@ -1,0 +1,68 @@
+[
+    {
+        "id": "1",
+        "title": "Машинно масло",
+        "alias": "mashinnoe-maslo",
+        "brand": "Shell",
+        "article": "gt32532523523",
+        "price": "551",
+        "qty": "422",
+        "offer_code": "11125116161",
+        "delivery_time": "1"
+    },
+    {
+        "id": "2",
+        "title": "Радиатор",
+        "alias": "radiator",
+        "brand": "Improve",
+        "article": "gt32532523556",
+        "price": "543",
+        "qty": "835",
+        "offer_code": "5734734734",
+        "delivery_time": "2"
+    },
+    {
+        "id": "4",
+        "title": "Кузов",
+        "alias": "kuzov",
+        "brand": "Metall",
+        "article": "gt32532541111",
+        "price": "683",
+        "qty": "838",
+        "offer_code": "11122523553",
+        "delivery_time": "1"
+    },
+    {
+        "id": "5",
+        "title": "Бензин",
+        "alias": "benzin",
+        "brand": "Brand",
+        "article": "gt32532523528",
+        "price": "614",
+        "qty": "869",
+        "offer_code": "11325325235",
+        "delivery_time": "1"
+    },
+    {
+        "id": "6",
+        "title": "Бак",
+        "alias": "bak",
+        "brand": "Aluminiy",
+        "article": "gt32532523529",
+        "price": "240",
+        "qty": "51",
+        "offer_code": "11117753111",
+        "delivery_time": "2"
+    },
+    {
+        "id": "7",
+        "title": "Диски",
+        "alias": "diski",
+        "brand": "Heavy Metall",
+        "article": "gt32532523530",
+        "price": "527",
+        "qty": "88",
+        "offer_code": "11114590911",
+        "delivery_time": "1"
+    }
+]
